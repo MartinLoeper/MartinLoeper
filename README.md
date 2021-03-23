@@ -25,4 +25,4 @@ Over the last couple of years, I realized that life in a growing start-up inevit
 
 <br />
 
-![Martin Loeper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinloeper&show_icons=true&theme=radical)
+![Martin Loeper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinloeper&show_icons=true&theme=vue)
