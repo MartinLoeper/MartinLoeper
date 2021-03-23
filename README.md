@@ -14,7 +14,7 @@
 
 Hi there 👋
 
-I'm Martin, cloud solutions architect, working for the start-up Nesto from Karlsruhe, Southern Germany.
+I'm Martin, cloud solutions architect, working for the start-up company <a href="http://nesto-software.de/">Nesto</a> from Karlsruhe, Germany.
 Over the last couple of years, I realized that life in a growing start-up inevitably has pushed me towards the Dev-Ops boundary. Hence, I consider myself *somewhere between Dev and Ops*: Sometimes architecting cloud workloads, sometimes monitoring traffic and scaling activity, sometimes developing a fleet of IoT devices and most importantly embracing *lifelong learning*.
 
 ## Active Projects
