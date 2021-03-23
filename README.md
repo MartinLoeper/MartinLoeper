@@ -5,7 +5,7 @@
     • 
     <a href="https://www.youracclaim.com/users/martin-loeper/badges">Cloud Certs</a>
     • 
-    <a href="https://mloeper.me/">Bio</a>
+    <a href="https://mloeper.me/">Profile</a>
     • 
     <a href="https://github.com/MartinLoeper/My-CV/releases/download/latest/cv-martin-loeper.pdf">CV</a>
 </p>
