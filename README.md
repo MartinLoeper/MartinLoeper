@@ -3,6 +3,8 @@
     • 
     <a href="https://www.linkedin.com/in/martinloeper/">LinkedIn</a>
     • 
+    <a href="https://keybase.io/martinloeper">Keybase</a>
+    • 
     <a href="https://www.youracclaim.com/users/martin-loeper/badges">Cloud Certs</a>
     • 
     <a href="https://mloeper.me/">Profile</a>
