@@ -34,7 +34,7 @@ Over the last couple of years, I realized that life in a growing start-up inevit
 | [My-Roadmap](https://github.com/MartinLoeper/My-Roadmap) | Some thoughts on professional development, my next steps and certifications I want to earn. |
 | [My-CV](https://github.com/MartinLoeper/My-CV) | My generic combination résumé for the IT sector. Always up-to-date. Based on one of the most beautiful open-source Latex templates on GitHub. Featuring automatic builds. |
 | [My-Identity](https://github.com/MartinLoeper/My-Identity) | A personal profile where I introduce myself. It serves as contact point and links to all work-related social media profiles. Always up-to-date. Based on one of the most beautiful open-source Hugo templates on GitHub. Featuring automatic builds. |
-| [My-Machine](https://github.com/MartinLoeper/My-Machine) | The IT equipment I use for work and tools that I recommend. Backup for .dot files. |
+| [My-Machine](https://github.com/MartinLoeper/My-Machine) | The IT equipment I use for work and tools that I recommend. Backup of .dot files and system configuration. Custom patches for Arch build system packages. |
 
 <br />
 
