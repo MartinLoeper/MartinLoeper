@@ -12,8 +12,6 @@
     <a href="https://github.com/MartinLoeper/My-CV/releases/download/latest/cv-martin-loeper.pdf">CV</a>
 </p>
 
-[<img align="right" width="160" src="./imgs/AWS-SolArchitect-Professional-2020.png" />](https://www.youracclaim.com/badges/e00de02f-620b-41b5-8ad7-3caaa7993bc9/linked_in_profile)
-
 ## About
 
 Hi there 👋
