@@ -31,7 +31,3 @@ Over the last couple of years, I realized that life in a growing start-up inevit
 |:------------------------------- |:-----|
 | [My-CV](https://github.com/MartinLoeper/My-CV) | My generic combination résumé for the IT sector. Always up-to-date. Based on one of the most beautiful open-source Latex templates on GitHub. Featuring automatic builds. |
 | [My-Identity](https://github.com/MartinLoeper/My-Identity) | A personal profile where I introduce myself. It serves as contact point and links to all work-related social media profiles. Always up-to-date. Based on one of the most beautiful open-source Hugo templates on GitHub. Featuring automatic builds. |
-
-<br />
-
-![Martin Loeper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinloeper&show_icons=true&theme=vue)
