@@ -19,6 +19,10 @@ Hi there 👋
 I'm Martin, a cloud solutions architect working for the start-up company <a href="https://nesto-software.de/">Nesto</a> from Karlsruhe, Germany.
 Over the last couple of years, I realized that life in a growing start-up inevitably had pushed me towards the Dev-Ops boundary. Hence, I consider myself *somewhere between Dev and Ops*: Sometimes architecting cloud workloads, sometimes monitoring traffic and scaling activity, sometimes developing a fleet of IoT devices, and most importantly, embracing *lifelong learning*.
 
+## NixOS
+
+Actively contributing to the [Nix User Repository](https://nur.nix-community.org/repos/mloeper/).
+
 ## Former Open Source Projects
 | Project | Description |
 |:------------------------------- |:-----|
